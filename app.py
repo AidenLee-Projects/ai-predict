@@ -1,11 +1,14 @@
 
+
 import streamlit as st
 
 st.set_page_config(page_title="AI Stock Prediction - 주식 예측 AI", layout="wide")
 
-# Google Search Console 소유권 확인을 위한 메타 태그 추가
+# SEO Meta Tags 추가
 st.markdown("""
-    <meta name="google-site-verification" content="ZizTnykpaL1-LKN9NOoUMTucMDKg3PYyZ3IQZ8dPLRo" />
+    <meta name="google-site-verification" content="google135aa8e729d6d551" />
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="X-Frame-Options" content="ALLOWALL">
 """, unsafe_allow_html=True)
 
 
