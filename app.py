@@ -1,17 +1,13 @@
+
 import streamlit as st
 
-st.set_page_config(page_title="AI Stock Prediction", layout="wide")
+st.set_page_config(page_title="AI Stock Prediction - 주식 예측 AI", layout="wide")
 
+# Google Search Console 소유권 확인을 위한 메타 태그 추가
 st.markdown("""
-    <head>
-        <title>AI Stock Prediction - 주식 예측 AI</title>
-        <meta name="description" content="AI 기반 주식 예측 서비스. AI로 주식 가격을 분석하고 예측해보세요!">
-        <meta name="keywords" content="AI Stock Prediction, Stock Forecasting, Machine Learning, 주식 예측, AI 주식 분석, 머신러닝">
-        <meta name="robots" content="index, follow">
-        <meta property="og:title" content="AI Stock Prediction - 주식 예측 AI">
-        <meta property="og:description" content="AI를 활용한 최신 주식 예측 모델을 경험하세요!">
-    </head>
+    <meta name="google-site-verification" content="ZizTnykpaL1-LKN9NOoUMTucMDKg3PYyZ3IQZ8dPLRo" />
 """, unsafe_allow_html=True)
+
 
 
 
