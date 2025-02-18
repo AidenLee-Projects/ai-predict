@@ -1,0 +1,6 @@
+yfinance
+plotly
+pandas
+scikit-learn
+nixtla
+feedparser
