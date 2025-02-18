@@ -10,7 +10,6 @@ st.markdown("""
         <meta name="robots" content="index, follow">
         <meta property="og:title" content="AI Stock Prediction - 주식 예측 AI">
         <meta property="og:description" content="AI를 활용한 최신 주식 예측 모델을 경험하세요!">
-        <meta property="og:url" content="https://ai-stock-predict.streamlit.app">
     </head>
 """, unsafe_allow_html=True)
 
